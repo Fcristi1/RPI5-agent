@@ -5,6 +5,11 @@ python -m interface.app --model models/Qwen_Qwen3.5-2B-Q4_K_M.gguf
 python -m interface.app \
   --model models/Qwen3.5-4B-Q4_K_M.gguf
 
+<<<<<<< HEAD
+=======
+  
+
+>>>>>>> 177a21375d0d3cdc26a044728ca285c12e791db9
 fisier modificat:
 cd~/Pi5-LLM $ 
 cat interface/templates/index.html
